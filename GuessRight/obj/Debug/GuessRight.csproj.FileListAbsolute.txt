@@ -1,0 +1,6 @@
+C:\Users\Citta\Ephraim\GuessRight\GuessRight\bin\Debug\GuessRight.exe.config
+C:\Users\Citta\Ephraim\GuessRight\GuessRight\bin\Debug\GuessRight.exe
+C:\Users\Citta\Ephraim\GuessRight\GuessRight\bin\Debug\GuessRight.pdb
+C:\Users\Citta\Ephraim\GuessRight\GuessRight\obj\Debug\GuessRight.csprojResolveAssemblyReference.cache
+C:\Users\Citta\Ephraim\GuessRight\GuessRight\obj\Debug\GuessRight.exe
+C:\Users\Citta\Ephraim\GuessRight\GuessRight\obj\Debug\GuessRight.pdb
